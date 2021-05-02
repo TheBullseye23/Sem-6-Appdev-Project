@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.AddRecipeActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="40dp"
+        android:text="Recipe name:"
+        android:textColor="#040303"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/recipename"
+        android:layout_width="match_parent"
+        android:layout_marginHorizontal="20dp"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_marginTop="40dp"
+        android:layout_width="wrap_content"
+        android:text="Recipe ingredients:"
+        android:layout_height="wrap_content"
+        android:textColor="#040303"
+        android:layout_marginLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/ingredients"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:text="Recipe instructions:"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textColor="#040303"
+        android:layout_marginTop="40dp"/>
+
+    <EditText
+        android:id="@+id/instructions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:text="Enter image url:"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textColor="#040303"
+        android:layout_marginTop="40dp"/>
+
+    <EditText
+        android:id="@+id/urll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="20dp"
+        android:inputType="textMultiLine" />
+
+    <TextView
+        android:textSize="20sp"
+        android:layout_width="wrap_content"
+        android:text="Choose category:"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:textColor="#040303"
+        android:layout_marginTop="40dp"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/cat1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Indian" />
+
+        <RadioButton
+            android:id="@+id/cat2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Italian" />
+
+        <RadioButton
+            android:id="@+id/cat3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chinese" />
+
+        <RadioButton
+            android:id="@+id/cat4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="American" />
+
+    </RadioGroup>
+
+        <Button
+            android:id="@+id/addbtn"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="false"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="#DC1111"
+            android:backgroundTint="@color/colorPrimary"
+            android:foregroundGravity="center_horizontal"
+            android:padding="15dp"
+            android:paddingHorizontal="15dp"
+            android:text="Add my recipe!"
+            android:textColorHighlight="@color/colorPrimary"
+            android:textColorLink="#CDDC39"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</ScrollView>
+
+
+

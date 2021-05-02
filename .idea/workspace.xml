@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c5656725-8472-4286-9bef-68313e6c44fa" name="Default Changelist" comment="Added a floating action button for adding recipes.">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/manjurulhoque/myrecipes/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/sem6recipe/myrecipes/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/SquareImageView.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/SquareImageView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/activity/AboutActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/activity/AboutActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/activity/AddRecipeActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/activity/AddRecipeActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/activity/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/activity/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/activity/RecipeDetailsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/activity/RecipeDetailsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/activity/RecipesByCategoryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/activity/RecipesByCategoryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/activity/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/activity/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/adapter/CategoryRecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/adapter/CategoryRecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/adapter/FavoriteRecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/adapter/FavoriteRecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/adapter/RecipeRecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/adapter/RecipeRecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/adapter/TabPagerAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/adapter/TabPagerAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/dbhelper/FavouriteDbHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/dbhelper/FavouriteDbHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/fragment/CategoryFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/fragment/CategoryFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/fragment/FavoriteFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/fragment/FavoriteFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/fragment/HomeTabFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/fragment/HomeTabFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/fragment/RecipesFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/fragment/RecipesFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/model/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/model/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/model/Favorite.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/model/Favorite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/manjurulhoque/myrecipes/model/Recipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/sem6recipe/myrecipes/model/Recipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_favorite_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_favorite_row.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_recipe_row.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_recipe_row.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/manjurulhoque/myrecipes/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/sem6recipe/myrecipes/ExampleUnitTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@ZY224GTTMM]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android-recipe-app-master" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rn1qvRBDByEyuaA2ZnEFW5WvSV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@/Users/skarankumar/.android/avd/Pixel_4a_API_30.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-05-02T07:45:37.159794Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-view/Users/skarankumar/Downloads/android-recipe-app-master/app/src/main/java/com/manjurulhoque/myrecipes/SquareImageView.java_SELECTED" value="SquareImageView" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-1786632334">
+      <recent name="com.manjurulhoque.myrecipes.activity" />
+    </key>
+    <key name="android.template.42803398">
+      <recent name="com.manjurulhoque.myrecipes.activity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Sem6_RecipeApp.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5656725-8472-4286-9bef-68313e6c44fa" name="Default Changelist" comment="" />
+      <created>1619597233920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619597233920</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Made changes to profile info - name &amp; email ID.">
+      <created>1619713901450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619713901450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated the about section.">
+      <created>1619714989553</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619714989553</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changed the colors.">
+      <created>1619720194459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619720194459</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Final changes to the about section.">
+      <created>1619720959836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619720959836</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated the fonts to comfortaa">
+      <created>1619722371042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619722371042</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Changed the navigation header">
+      <created>1619723727666</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619723727666</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed the share feature">
+      <created>1619725661464</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1619725661464</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed the profile pic's size.">
+      <created>1619725815346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1619725815346</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed the app icon.">
+      <created>1619839334597</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1619839334597</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Changed the app icon - 2">
+      <created>1619839372593</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1619839372593</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added a splash screen">
+      <created>1619841266157</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1619841266157</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added an activity for adding recipes (without implementing code in navigation drawer)">
+      <created>1619869134403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619869134403</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added firebase json file.">
+      <created>1619877152001</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619877152001</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed the recipe and category firebase Realtime database.">
+      <created>1619886804731</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619886804731</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Changed the key in AddRecipeActivity.">
+      <created>1619897284172</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1619897284172</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Changes made :&#10;1)Adding bottom margin for add recipe button (add recipe layout)&#10;2)Try to make add recipe activity a lil more consistent.&#10;3)&quot;American&quot; word is cut off, cut off the horizontal margins.&#10;4)Change the app color to dark red.&#10;5)Can I change the color of the background of the grid to a better color?&#10;6)Change icon of add recipes to a plus sign.">
+      <created>1619940425869</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1619940425869</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final layout changes made to layout_category_row.xml">
+      <created>1619941505018</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1619941505018</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added a floating action button for adding recipes.">
+      <created>1619943759575</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1619943759575</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Made changes to profile info - name &amp; email ID." />
+    <MESSAGE value="Updated the about section." />
+    <MESSAGE value="Changed the colors." />
+    <MESSAGE value="Final changes to the about section." />
+    <MESSAGE value="Updated the fonts to comfortaa" />
+    <MESSAGE value="Changed the navigation header" />
+    <MESSAGE value="Changed the share feature" />
+    <MESSAGE value="Changed the profile pic's size." />
+    <MESSAGE value="Changed the app icon." />
+    <MESSAGE value="Changed the app icon - 2" />
+    <MESSAGE value="Added a splash screen" />
+    <MESSAGE value="Added an activity for adding recipes (without implementing code in navigation drawer)" />
+    <MESSAGE value="Added firebase json file." />
+    <MESSAGE value="Fixed the recipe and category firebase Realtime database." />
+    <MESSAGE value="Changed the key in AddRecipeActivity." />
+    <MESSAGE value="Changes made :&#10;1)Adding bottom margin for add recipe button (add recipe layout)&#10;2)Try to make add recipe activity a lil more consistent.&#10;3)&quot;American&quot; word is cut off, cut off the horizontal margins.&#10;4)Change the app color to dark red.&#10;5)Can I change the color of the background of the grid to a better color?&#10;6)Change icon of add recipes to a plus sign." />
+    <MESSAGE value="Final layout changes made to layout_category_row.xml" />
+    <MESSAGE value="Added a floating action button for adding recipes." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added a floating action button for adding recipes." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="245" y="186" key="#PSD" timestamp="1619597862877">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="245" y="186" key="#PSD/0.0.1440.900@0.0.1440.900" timestamp="1619597862877" />
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser" timestamp="1619881349302">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1619881349302" />
+    <state x="0" y="28" width="1440" height="872" key="AVDManager" timestamp="1619898955941">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="0" y="28" width="1440" height="872" key="AVDManager/0.25.1440.801@0.25.1440.801" timestamp="1619898955941" />
+    <state x="308" y="209" key="AndroidCreateResourceDirectoryDialog" timestamp="1619721831228">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="209" key="AndroidCreateResourceDirectoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1619721831228" />
+    <state x="308" y="209" key="AndroidCreateResourceFileDialog" timestamp="1619721868284">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="308" y="209" key="AndroidCreateResourceFileDialog/0.0.1440.900@0.0.1440.900" timestamp="1619721868284" />
+    <state x="497" y="200" key="AndroidProcessChooserDialog" timestamp="1619941242129">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="497" y="200" key="AndroidProcessChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1619941242129" />
+    <state x="408" y="209" key="Downloadable.Font.Dialog.Size" timestamp="1619840573147">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="408" y="209" key="Downloadable.Font.Dialog.Size/0.0.1440.900@0.0.1440.900" timestamp="1619840573147" />
+    <state width="1398" height="449" key="GridCell.Tab.0.bottom" timestamp="1619941471247">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="449" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619941471247" />
+    <state width="1398" height="449" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1619898358025" />
+    <state width="1398" height="449" key="GridCell.Tab.0.center" timestamp="1619941471244">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="449" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1619941471244" />
+    <state width="1398" height="449" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1619898358022" />
+    <state width="1398" height="449" key="GridCell.Tab.0.left" timestamp="1619941471243">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="449" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1619941471243" />
+    <state width="1398" height="449" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1619898358020" />
+    <state width="1398" height="449" key="GridCell.Tab.0.right" timestamp="1619941471246">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="449" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1619941471246" />
+    <state width="1398" height="449" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1619898358023" />
+    <state width="1398" height="151" key="GridCell.Tab.1.bottom" timestamp="1619879154062">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1619879154062" />
+    <state width="1398" height="151" key="GridCell.Tab.1.center" timestamp="1619879154061">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1619879154061" />
+    <state width="1398" height="151" key="GridCell.Tab.1.left" timestamp="1619879154061">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1619879154061" />
+    <state width="1398" height="151" key="GridCell.Tab.1.right" timestamp="1619879154061">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="151" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1619879154061" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1619597567691">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1619597567691" />
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2" timestamp="1619943783852">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="187" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1619943783852" />
+    <state x="523" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1619712941164">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="523" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1619712941164" />
+    <state x="520" y="313" key="scopes" timestamp="1619950680161">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="520" y="313" key="scopes/0.0.1440.900@0.0.1440.900" timestamp="1619950680161" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1619950555487">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1619950555487" />
+  </component>
+</project>
